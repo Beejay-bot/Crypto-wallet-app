@@ -1,0 +1,13 @@
+import  axios from "axios";
+export const GET_HOLDINGS_BEGIN = 'GET_HOLDINGS_BEGIN'
+export const GET_HOLDINGS_SUCCESS = 'GET_HOLDINGS_SUCCESS'
+export const GET_HOLDINGS_FALILURE = 'GET_HOLDINGS_FAILURE'
+
+export const GET_COIN_MARKET_BEGIN = 'GET_COIN_MARKET_BEGIN'
+export const GET_COIN_MARKET_SUCCESS = 'GET_COIN_MARKET_SUCCESS'
+export const GET_COIN_MARKET_FAILURE = 'GET_COIN_MARKET_FAILURE'
+
+//Holdings / My Holdings
+
+
+//Coin market
